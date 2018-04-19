@@ -19,12 +19,12 @@ The main objective of this project is to create awareness for the refugee crisis
 
 source: https://www.kaggle.com/unitednations/refugee-data
 
-Asylum monthly applications opened (asylum_seekers_monthly.csv)
-Yearly progress through the refugee system (asylum_seekers.csv)
-Refugee demographics (demographics.csv)
-Yearly time series data on UNHCR’s populations of concern (time_series.csv)
-Yearly population statistics on refugees by residence and destination (persons_of_concern.csv)
-Yearly data on resettlement arrivals, with or without UNHCR assistance (resettlement.csv)
+- Asylum monthly applications opened (asylum_seekers_monthly.csv)
+- Yearly progress through the refugee system (asylum_seekers.csv)
+- Refugee demographics (demographics.csv)
+- Yearly time series data on UNHCR’s populations of concern (time_series.csv)
+- Yearly population statistics on refugees by residence and destination (persons_of_concern.csv)
+- Yearly data on resettlement arrivals, with or without UNHCR assistance (resettlement.csv)
 
 **2) UN International Migration Data**
 
