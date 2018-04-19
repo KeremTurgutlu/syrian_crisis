@@ -30,4 +30,4 @@ source: https://www.kaggle.com/unitednations/refugee-data
 
 source: http://www.un.org/en/development/desa/population/migration/data/index.shtml
 
-For baby steps go to: https://github.com/KeremTurgutlu/syrian_crisis/blob/master/Syrian%20Refugee%20Crisis%20-%20Sandbox.ipynb
+<a href="https://github.com/KeremTurgutlu/syrian_crisis/blob/master/Syrian%20Refugee%20Crisis%20-%20Sandbox.ipynb">click for sandbox<\a>
