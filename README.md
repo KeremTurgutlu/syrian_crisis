@@ -12,3 +12,20 @@ The main objective of this project is to create awareness for the refugee crisis
 - Who is affected the most from this crisis, which demographics ?
 - What is the pattern of refugees, which paths do they follow ?
 - How other countries react to this issue and what kind of actions do they take towards it ?
+
+**Data:**
+
+**1) Data from UN High Commissioner for Refugees (UNHCR):**
+
+source: https://www.kaggle.com/unitednations/refugee-data
+
+Asylum monthly applications opened (asylum_seekers_monthly.csv)
+Yearly progress through the refugee system (asylum_seekers.csv)
+Refugee demographics (demographics.csv)
+Yearly time series data on UNHCR’s populations of concern (time_series.csv)
+Yearly population statistics on refugees by residence and destination (persons_of_concern.csv)
+Yearly data on resettlement arrivals, with or without UNHCR assistance (resettlement.csv)
+
+**2) UN International Migration Data**
+
+source: http://www.un.org/en/development/desa/population/migration/data/index.shtml
