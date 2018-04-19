@@ -29,3 +29,6 @@ source: https://www.kaggle.com/unitednations/refugee-data
 **2) UN International Migration Data**
 
 source: http://www.un.org/en/development/desa/population/migration/data/index.shtml
+
+
+For baby steps go to: https://github.com/KeremTurgutlu/syrian_crisis/blob/master/Syrian%20Refugee%20Crisis%20-%20Sandbox.ipynb
