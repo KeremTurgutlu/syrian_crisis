@@ -2,7 +2,99 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b3feecc-694e-480e-8127-7baa08baa9b6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/asylum_seekers.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot10.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot11.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot12.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot13.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot14.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot15.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot17.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot18.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot19.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot20.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot21.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot22.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot23.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot24.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot25.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot26.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot27.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot28.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot29.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot30.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot31.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot33.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot34.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot35.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot36.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot37.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot38.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot39.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot40.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot41.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot42.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot43.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot44.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot45.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot46.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot47.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot49.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot50.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot51.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot52.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot53.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot54.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot55.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot56.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot57.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot58.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot59.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot60.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot61.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot62.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot63.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot64.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot65.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot66.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot67.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot68.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot69.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot70.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot71.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot73.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot74.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot75.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot76.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot77.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot78.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot79.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot8.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot80.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot81.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot82.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot83.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot84.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot85.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Rplot9.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/Rplot.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.4.4.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.scianimator.min.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/pages/where.html" afterPath="$PROJECT_DIR$/pages/where.html" />
+      <change beforePath="$PROJECT_DIR$/rstuff.Rmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/rstuff.nb.html" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,7 +104,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,8 +141,8 @@
       <file leaf-file-name="where.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/where.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="39" column="8" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+            <state relative-caret-position="288">
+              <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -59,7 +151,7 @@
       <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/themes/twitter/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
+            <state relative-caret-position="990">
               <caret line="55" column="9" lean-forward="false" selection-start-line="29" selection-start-column="2" selection-end-line="55" selection-end-column="9" />
               <folding />
             </state>
@@ -181,6 +273,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,89 +282,10 @@
               <item name="syrian_crisis" type="b2602c69:ProjectViewProjectNode" />
               <item name="syrian_crisis" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="syrian_crisis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="syrian_crisis" type="462c0819:PsiDirectoryNode" />
-              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="syrian_crisis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="syrian_crisis" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="syrian_crisis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="syrian_crisis" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="syrian_crisis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="syrian_crisis" type="462c0819:PsiDirectoryNode" />
-              <item name="_plugins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="syrian_crisis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="syrian_crisis" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="syrian_crisis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="syrian_crisis" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="syrian_crisis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="syrian_crisis" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="twitter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="syrian_crisis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="syrian_crisis" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="twitter" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="syrian_crisis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="syrian_crisis" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="twitter" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="syrian_crisis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="syrian_crisis" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="twitter" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="syrian_crisis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="syrian_crisis" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="twitter" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="syrian_crisis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="syrian_crisis" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,20 +327,20 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26604068" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -356,34 +371,106 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/License.md">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="51" column="17" lean-forward="false" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <first_editor relative-caret-position="558">
+            <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/_includes/themes/twitter/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="55" column="9" lean-forward="false" selection-start-line="29" selection-start-column="2" selection-end-line="55" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/where.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/independent_site.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="30" column="78" lean-forward="false" selection-start-line="30" selection-start-column="78" selection-end-line="30" selection-end-column="78" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/user_site.md">
+    <entry file="file://$PROJECT_DIR$/pages/nojekyll.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/License.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/pages/user_site.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           </first_editor>
           <second_editor />
         </state>
@@ -394,7 +481,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -405,7 +491,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -436,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -455,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -464,7 +547,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -474,7 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -483,7 +564,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -504,32 +584,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3942">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/where.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="126">
-            <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.md" />
+    <entry file="file://$PROJECT_DIR$/pages/where.md" />
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
@@ -548,7 +607,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/themes/twitter/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
+        <state relative-caret-position="990">
           <caret line="55" column="9" lean-forward="false" selection-start-line="29" selection-start-column="2" selection-end-line="55" selection-end-column="9" />
           <folding />
         </state>
@@ -562,22 +621,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/asylum_seekers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="24" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/asylum_seekers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/asylum_seekers.html" />
+    <entry file="file://$PROJECT_DIR$/pages/asylum_seekers.html" />
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -591,8 +636,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/where.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="8" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        <state relative-caret-position="288">
+          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
           <folding />
         </state>
       </provider>
