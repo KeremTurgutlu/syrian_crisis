@@ -1,13 +1,8 @@
-#theme
-theme: jekyll-theme-cayman
-
-#files to exclude when rendering
-exclude: ["License.md", "Readme.md", "Rakefile.md"]
-
 # This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title
 
+exclude: ["ReadMe.md","README.md", "Rakefile", "changelog.md", "License.md"]
 highlighter: rouge
 
 # Themes are encouraged to use these universal variables
@@ -22,7 +17,7 @@ author :
   feedburner : nil
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
-production_url : https://keremturgutlu.github.io/syrian_crisis/
+production_url : http://keremturgutlu.github.io/syrian_crisis
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -57,7 +52,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
- BASE_PATH : https://keremturgutlu.github.io/syrian_crisis/
+  BASE_PATH : http://keremturgutlu.github.io/syrian_crisis
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
