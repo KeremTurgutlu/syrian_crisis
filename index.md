@@ -7,7 +7,7 @@ description: Visualization of Syrian Refugee Crisis between 2011-2017
 
 status: Beta Release in make
 
-#### Background and Research:
+## Background and Research:
 
 Syrian crisis is the biggest humanitarian crisis since World War
 II and it is a live problem that is still left unresolved. 
@@ -20,13 +20,13 @@ humanitarian organizations and if time allows data from web in
 order to shed light to this problem and I hope to attract 
 attention of more people to share this concern. 
 
-#### Project Objectives:
+## Project Objectives:
 
 The main objective of this project is to create awareness for
 the refugee crisis and next to show patterns by summarizing and
 visualizing data in order to better understand the patterns behind it. 
 
-#### Questions Yet to be Answered:
+## Questions Yet to be Answered:
 
 - [How is immigration from Syria since 2011 ?](https://github.com/KeremTurgutlu/syrian_crisis/blob/master/Syrian%20Refugee%20Crisis%20-%20Sandbox.ipynb) 
 - How this is related with events in the area and actions of the countries of interest.
@@ -35,9 +35,9 @@ visualizing data in order to better understand the patterns behind it.
 - How other countries react to this issue and what kind of actions do they take towards it ?
 
 
-#### Data Sources:
+## Data Sources:
 
-####1) Data from UN High Commissioner for Refugees (UNHCR):**
+#### 1) Data from UN High Commissioner for Refugees (UNHCR):**
 
 [Kaggle Dataset Link](https://www.kaggle.com/unitednations/refugee-data)
 
@@ -56,45 +56,6 @@ visualizing data in order to better understand the patterns behind it.
 
 #### Others
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
-
-For me, the painful aspects of making a website are
-
-- Working with html and css
-- Finding a hosting site
-- Transferring stuff to the hosting site
-
-With [GitHub Pages](https://pages.github.com), you just write things in
-[Markdown](https://daringfireball.net/projects/markdown/),
-[GitHub](https://github.com) hosts the site for you, and you just push
-material to your GitHub repository with `git add`, `git commit`, and
-`git push`.
-
-If you love [git](https://git-scm.com/) and
-[GitHub](https://github.com), you'll love
-[GitHub Pages](https://pages.github.com), too.
-
-The sites use [Jekyll](https://jekyllrb.com/), a
-[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html, and this part is done
-automatically when you push the materials to the `gh-pages` branch
-of a GitHub repository.
-
-The [GitHub](https://pages.github.com) and
-[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
-would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
-has might be simpler and more direct.  But if you just want to create
-a site like the one you're looking at now, read on.
-
-Start by reading the [Overview page](pages/overview.html), which
-explains the basic structure of these sites. Then read
-[how to make an independent website](pages/independent_site.html). Then
-read any of the other things, such as
-[how to test your site locally](pages/local_test.html).
 
 - [Overview](pages/overview.html)
 - [Making an independent website](pages/independent_site.html)
