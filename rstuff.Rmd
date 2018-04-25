@@ -1,0 +1,113 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(magrittr)
+data <- read_csv('project/data/cumsum_asylum_seekers.csv')
+```
+```{r}
+data %>% tail()
+```
+
+```{r}
+summary(data$Value)
+
+breaks <- c()
+for (i in seq(10)) {
+  breaks <- c(breaks, (2)^(i+4))
+}
+breaks
+```
+
+
+
+```{r}
+library(ggplot2)
+library(maps)
+library(ggthemes)
+
+world <- ggplot() +
+  borders("US", colour = "gray85", fill = "gray80") +
+  theme_map() 
+
+map <- world +
+  geom_point(aes(x = lng, y = lat, size = Value),
+             data = data, 
+             colour = 'purple', alpha = .1) +
+  scale_size_continuous(range = c(1, 20), 
+                        breaks = breaks) +
+  labs(size = 'Asylum Seekers')
+map
+```
+
+```{r}
+library(tibble)
+library(lubridate)
+
+ghost_points_ini <- tibble(
+  date = as.Date('2010-12-01'),
+  Value = 0, lng = 0, lat = 0)
+
+ghost_points_fin <- tibble(
+  date = seq(as.Date('2017-06-01'),
+             as.Date('2017-12-01'),
+             by = 'months'),
+  Value = 0, lng = 0, lat = 0)
+
+```
+
+
+
+
+```{r}
+map <- world +
+  geom_point(aes(x = lng, y = lat, size = Value, 
+                 frame = date,
+                 cumulative = TRUE),
+             data = data, colour = 'purple', alpha = .1) +
+  geom_point(aes(x = lng, y = lat, size = Value,  # this is the init transparent frame
+                 frame = date,
+                 cumulative = TRUE),
+             data = ghost_points_ini, alpha = 0) +
+  geom_point(aes(x = lng, y = lat, size = Value, # this is the final transparent frames
+                 frame = date,
+                 cumulative = TRUE),
+             data = ghost_points_fin, alpha = 0) +
+  scale_size_continuous(range = c(1, 20), breaks = breaks) +
+  labs(size = 'Followers') 
+
+
+
+library(gganimate)
+#gganimate::ani.options(interval = 0.2)
+gganimate(map, interval = .2, filename = 'asylum_seekers.gif')
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

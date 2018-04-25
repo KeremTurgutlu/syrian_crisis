@@ -1,11 +1,9 @@
 ---
 layout: page
-title: syrian crisis
-tagline: Syrian Refugee Crisis Data Visualization
-description: Visualization of Syrian Refugee Crisis between 2011-2017
+title: Visualizing  Syrian Refugee Crisis between 2011-2017
 ---
 
-status: Beta Release in make
+**status: Beta Release**
 
 ### Background and Research:
 
@@ -27,6 +25,8 @@ the refugee crisis and next to show patterns by summarizing and
 visualizing data in order to better understand the patterns behind it. 
 
 ### Questions Yet to be Answered:
+
+Click to find visual insights by exploring interactive plots 
 
 - [How is immigration from Syria since 2011 ?](pages/where.html) 
 - How this is related with events in the area and actions of the countries of interest.
@@ -53,23 +53,6 @@ visualizing data in order to better understand the patterns behind it.
 [Data World Link](https://data.world/polymathic/casualties-of-the-syrian-civil-war)
 
 - Civil War Casualties since 2011.
-
-#### Others
-
-
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
-
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
 
 ---
 
