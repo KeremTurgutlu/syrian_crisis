@@ -7,7 +7,7 @@ description: Visualization of Syrian Refugee Crisis between 2011-2017
 
 status: Beta Release in make
 
-## Background and Research:
+### Background and Research:
 
 Syrian crisis is the biggest humanitarian crisis since World War
 II and it is a live problem that is still left unresolved. 
@@ -20,22 +20,22 @@ humanitarian organizations and if time allows data from web in
 order to shed light to this problem and I hope to attract 
 attention of more people to share this concern. 
 
-## Project Objectives:
+### Project Objectives:
 
 The main objective of this project is to create awareness for
 the refugee crisis and next to show patterns by summarizing and
 visualizing data in order to better understand the patterns behind it. 
 
-## Questions Yet to be Answered:
+### Questions Yet to be Answered:
 
-- [How is immigration from Syria since 2011 ?](https://github.com/KeremTurgutlu/syrian_crisis/blob/master/Syrian%20Refugee%20Crisis%20-%20Sandbox.ipynb) 
+- [How is immigration from Syria since 2011 ?](pages/where.html) 
 - How this is related with events in the area and actions of the countries of interest.
 - Who is affected the most from this crisis, which demographics ?
 - What is the pattern of refugees, which paths do they follow ?
 - How other countries react to this issue and what kind of actions do they take towards it ?
 
 
-## Data Sources:
+### Data Sources:
 
 #### 1) Data from UN High Commissioner for Refugees (UNHCR):**
 
