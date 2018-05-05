@@ -29,8 +29,9 @@ visualizing data in order to better understand the patterns behind it.
 Click to find visual insights by exploring interactive plots 
 
 - [How is immigration from Syria since 2011 ?](pages/where.html) 
+- [Who is helping ?](pages/help.html)
+- [Who is affected ?](pages/demographic.html) 
 - How this is related with events in the area and actions of the countries of interest.
-- Who is affected the most from this crisis, which demographics ?
 - What is the pattern of refugees, which paths do they follow ?
 - How other countries react to this issue and what kind of actions do they take towards it ?
 
