@@ -31,10 +31,8 @@ Click to find visual insights by exploring interactive plots
 - [How is immigration from Syria since 2011 ?](pages/where.html) 
 - [Who is helping ?](pages/help.html)
 - [Who is affected ?](pages/demographic.html) 
-- How this is related with events in the area and actions of the countries of interest.
-- What is the pattern of refugees, which paths do they follow ?
-- How other countries react to this issue and what kind of actions do they take towards it ?
-
+- [Hopes and Dreams](pages/hopes.html)
+- [Victims](pages/victims.html)
 
 ### Data Sources:
 
